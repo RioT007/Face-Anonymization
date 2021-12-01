@@ -38,8 +38,11 @@ pip3 install -r requirements.txt
 3.  Run the python CLI app that shows the needed arguments
 
 `python3 project.py -h` or `python3 project.py --help`
+<p align="center">
+  ![-h](https://user-images.githubusercontent.com/68915136/144244816-fa852952-73b9-4fc4-874d-11fd071a9def.png)
+</p>
 
-![-h](https://user-images.githubusercontent.com/68915136/144244816-fa852952-73b9-4fc4-874d-11fd071a9def.png)
+
 
 
 
