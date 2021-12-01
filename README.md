@@ -47,7 +47,8 @@ python3 app.py --help
 
 ## System Architecture
 <p align="center">
-  <img src="https://i.ibb.co/njdhh8Y/temp.png" alt="Sublime's custom image"/>
+  <img src=![-h](https://user-images.githubusercontent.com/68915136/144244816-fa852952-73b9-4fc4-874d-11fd071a9def.png)
+/>
 </p>
 
 ## Output
