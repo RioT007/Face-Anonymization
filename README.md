@@ -74,21 +74,21 @@ Next let us look at the output when live streamed with a webcam
 On running `python3 project.py`, we get
 
 <p align="center">
-  <img src="https://ibb.co/kHbL90Z" alt="Blurred Image from Webcam"/>
+  <img src="https://i.ibb.co/5MpQnvZ/webcam-b.jpg" alt="Blurred Image from Webcam"/>
 </p>
 
 ### Pixelated Image
 On running `python project.py -p`, we get
 
 <p align="center">
-  <img src="https://ibb.co/mqM6Wd6" alt="Pixelated Image from Webcam"/>
+  <img src="https://i.ibb.co/BZSqMvq/webcam-p.png" alt="Pixelated Image from Webcam"/>
 </p>
 
 ### Emoji Masked Image
 On running `python project.py -m`, we get
 
 <p align="center">
-  <img src="https://ibb.co/GFJY6mY" alt="Emoji Masked Image from Webcam"/>
+  <img src="https://i.ibb.co/7bzMfhM/webcam-m.png" alt="Emoji Masked Image from Webcam"/>
 </p>
 
 ## Contributors
