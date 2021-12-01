@@ -49,7 +49,7 @@ pip3 install -r requirements.txt
 </p>
 
 ## Output
-
+First Let us Consider the cases where we use a pre-recorded video as input.
 ### Blurred Image
 On running `python3 project.py -i test1.mp4`, we get
 
@@ -58,14 +58,14 @@ On running `python3 project.py -i test1.mp4`, we get
 | ![test1 mp4 inp](https://user-images.githubusercontent.com/68915136/144244108-584551ef-470a-487a-b2ca-1eea7b71d8ad.png) | ![test1 mp4 -b](https://user-images.githubusercontent.com/68915136/144244243-fd60d6ae-6bab-420d-9538-988e8ff9e3c4.png) | 
 
 ### Pixelated Image
-On running `python project.py -i test1.mp4 -p` we get
+On running `python project.py -i test1.mp4 -p`, we get
 
 | Input | Ouput |
 | :---: | :---: |
 | ![test1 mp4 inp](https://user-images.githubusercontent.com/68915136/144244108-584551ef-470a-487a-b2ca-1eea7b71d8ad.png) | ![test1 mp4 -p](https://user-images.githubusercontent.com/68915136/144244553-769f82c5-fe14-4c11-a199-dead568f45c9.png) | 
 
 ### Emoji Masked Image
-On running `python project.py -i test1.mp4 -m` we get
+On running `python project.py -i test1.mp4 -m`, we get
 
 | Input | Ouput |
 | :---: | :---: |
