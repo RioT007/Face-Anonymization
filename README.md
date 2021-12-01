@@ -76,6 +76,7 @@ On running `python3 project.py -i test1.mp4 -m`, we get
 We can save the processed video with `python3 project.py -s output.py`. The video is saved as output.py.
  
 <p align="center">
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/rHSLWMX/output.png" alt="output" border="0"></a>
   <img src="https://i.ibb.co/rHSLWMX/output.png" alt="Blurred Image from Webcam"/>
 </p>
 
