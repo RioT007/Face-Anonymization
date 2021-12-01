@@ -37,10 +37,10 @@ pip3 install -r requirements.txt
 
 3.  Run the python CLI app that shows the needed arguments
 
-`python3 project.py -h` or `python3 project.py --help`
+To see all available options, run `python3 project.py -h` or `python3 project.py --help`.
 
 <p align="center">
-  <img src="https://i.ibb.co/h1ng8VG/h.png" alt="System Architecture of the system"/>
+  <img src="https://i.ibb.co/h1ng8VG/h.png" alt="Help Flag"/>
 </p>
 
 
@@ -71,6 +71,13 @@ On running `python3 project.py -i test1.mp4 -m`, we get
 | Input | Ouput |
 | :---: | :---: |
 | ![test1 mp4 inp](https://user-images.githubusercontent.com/68915136/144244108-584551ef-470a-487a-b2ca-1eea7b71d8ad.png) | ![test1 mp4 -m](https://user-images.githubusercontent.com/68915136/144244641-9a2aba86-d866-42a8-95be-a86770989b58.png) |
+
+### Save Processed Video
+We can save the processed video with `python3 project.py -s output.py`. The video is saved as output.py.
+ 
+<p align="center">
+  <img src="https://i.ibb.co/rHSLWMX/output.png" alt="Blurred Image from Webcam"/>
+</p>
 
 Next let us look at the output when live streamed with a webcam
 ### Blurred Image
