@@ -38,9 +38,6 @@ pip3 install -r requirements.txt
 3.  Run the python CLI app that shows the needed arguments
 
 `python3 project.py -h` or `python3 project.py --help`
-<p align="center">
-  <img src="https://drive.google.com/file/d/1L_FtZr0xMbF4vZYjKGsa5Shvj-uf2B2h/view?usp=sharing" alt="System Architecture of the system"/>
-</p>
 
 ![-h](https://user-images.githubusercontent.com/68915136/144244816-fa852952-73b9-4fc4-874d-11fd071a9def.png)
 
@@ -71,6 +68,12 @@ On running `python project.py -i test1.mp4 -m`, we get
 | Input | Ouput |
 | :---: | :---: |
 | ![test1 mp4 inp](https://user-images.githubusercontent.com/68915136/144244108-584551ef-470a-487a-b2ca-1eea7b71d8ad.png) | ![test1 mp4 -m](https://user-images.githubusercontent.com/68915136/144244641-9a2aba86-d866-42a8-95be-a86770989b58.png) |
+
+Next let us look at the output when live streamed with a webcam
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/5MpQnvZ/webcam-b.jpg" alt="webcam-b" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/sjd7xbr/webcam-border.jpg" alt="webcam-border" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/7bzMfhM/webcam-m.png" alt="webcam-m" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/BZSqMvq/webcam-p.png" alt="webcam-p" border="0"></a>
 
 ## Contributors
 
