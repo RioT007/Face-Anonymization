@@ -37,7 +37,8 @@ pip3 install -r requirements.txt
 
 3.  Run the python CLI app that shows the needed arguments
 
-`python3 app.py -h` or `python3 app.py --help`
+`python3 project.py -h` or `python3 project.py --help`
+
 ![-h](https://user-images.githubusercontent.com/68915136/144244816-fa852952-73b9-4fc4-874d-11fd071a9def.png)
 
 
@@ -50,6 +51,8 @@ pip3 install -r requirements.txt
 ## Output
 
 ### Blurred Image
+On running `python3 project.py -i test1.mp4`, we get
+
 | Input | Ouput |
 | :---: | :---: |
 | ![test1 mp4 inp](https://user-images.githubusercontent.com/68915136/144244108-584551ef-470a-487a-b2ca-1eea7b71d8ad.png) | ![test1 mp4 -b](https://user-images.githubusercontent.com/68915136/144244243-fd60d6ae-6bab-420d-9538-988e8ff9e3c4.png) | 
