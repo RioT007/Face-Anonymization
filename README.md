@@ -94,6 +94,13 @@ On running `python3 project.py -m`, we get
   <img src="https://i.ibb.co/7bzMfhM/webcam-m.png" alt="Emoji Masked Image from Webcam"/>
 </p>
 
+### Adding Borders
+On running `python3 project.py -b`, we can add borders to the area where the face is detected
+
+<p align="center">
+  <img src="https://i.ibb.co/sjd7xbr/webcam-border.jpg" alt="Border Flag"/>
+</p>
+
 ## Contributors
 
 The contributors for this project are :
