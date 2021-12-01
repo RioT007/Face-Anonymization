@@ -40,15 +40,13 @@ pip3 install -r requirements.txt
 ```
 python3 app.py --help
 ```
-<p align="center">
-  <img src="https://i.ibb.co/LtkP7KT/py.png" alt="Sublime's custom image"/>
-</p>
+![-h](https://user-images.githubusercontent.com/68915136/144244816-fa852952-73b9-4fc4-874d-11fd071a9def.png)
+
 
 
 ## System Architecture
 <p align="center">
-  <img src=![-h](https://user-images.githubusercontent.com/68915136/144244816-fa852952-73b9-4fc4-874d-11fd071a9def.png)
-/>
+  <img src=![-h](https://user-images.githubusercontent.com/68915136/144244816-fa852952-73b9-4fc4-874d-11fd071a9def.png)/>
 </p>
 
 ## Output
