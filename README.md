@@ -71,5 +71,5 @@ python3 app.py --help
 The contributors for this project are :
 
  - Aditya Anil	
+ - Sreerag K Vivek
  - Vivek Haridas
- - Sreerag K
