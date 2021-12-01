@@ -58,11 +58,15 @@ On running `python3 project.py -i test1.mp4`, we get
 | ![test1 mp4 inp](https://user-images.githubusercontent.com/68915136/144244108-584551ef-470a-487a-b2ca-1eea7b71d8ad.png) | ![test1 mp4 -b](https://user-images.githubusercontent.com/68915136/144244243-fd60d6ae-6bab-420d-9538-988e8ff9e3c4.png) | 
 
 ### Pixelated Image
+On running `python project.py -i test1.mp4 -p` we get
+
 | Input | Ouput |
 | :---: | :---: |
 | ![test1 mp4 inp](https://user-images.githubusercontent.com/68915136/144244108-584551ef-470a-487a-b2ca-1eea7b71d8ad.png) | ![test1 mp4 -p](https://user-images.githubusercontent.com/68915136/144244553-769f82c5-fe14-4c11-a199-dead568f45c9.png) | 
 
 ### Emoji Masked Image
+On running `python project.py -i test1.mp4 -m` we get
+
 | Input | Ouput |
 | :---: | :---: |
 | ![test1 mp4 inp](https://user-images.githubusercontent.com/68915136/144244108-584551ef-470a-487a-b2ca-1eea7b71d8ad.png) | ![test1 mp4 -m](https://user-images.githubusercontent.com/68915136/144244641-9a2aba86-d866-42a8-95be-a86770989b58.png) |
