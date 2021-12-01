@@ -57,21 +57,15 @@ python3 app.py --help
 | :---: | :---: |
 | ![test1 mp4 inp](https://user-images.githubusercontent.com/68915136/144244108-584551ef-470a-487a-b2ca-1eea7b71d8ad.png) | ![test1 mp4 -b](https://user-images.githubusercontent.com/68915136/144244243-fd60d6ae-6bab-420d-9538-988e8ff9e3c4.png) | 
 
+### Pixelated Image
+| Input | Ouput |
+| :---: | :---: |
+| ![test1 mp4 inp](https://user-images.githubusercontent.com/68915136/144244108-584551ef-470a-487a-b2ca-1eea7b71d8ad.png) | ![test1 mp4 -p](https://user-images.githubusercontent.com/68915136/144244553-769f82c5-fe14-4c11-a199-dead568f45c9.png) | 
 
-### Blurred Image
-<p align="center">
-  <img src="https://i.ibb.co/z8dQ2xf/ou1.png"/>
-</p>
-
-### Pixel Image
-<p align="center">
-  <img src="https://i.ibb.co/XSQHNVH/ou2.png"/>
-</p>
-
-### Emoji masked Image
-<p align="center">
-  <img src="https://i.ibb.co/GtcNyv6/ou3.png"/>
-</p>
+### Emoji Masked Image
+| Input | Ouput |
+| :---: | :---: |
+| ![test1 mp4 inp](https://user-images.githubusercontent.com/68915136/144244108-584551ef-470a-487a-b2ca-1eea7b71d8ad.png) | ![test1 mp4 -m](https://user-images.githubusercontent.com/68915136/144244641-9a2aba86-d866-42a8-95be-a86770989b58.png) |
 
 ## Contributors
 
