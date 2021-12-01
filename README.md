@@ -39,12 +39,10 @@ pip3 install -r requirements.txt
 
 `python3 project.py -h` or `python3 project.py --help`
 <p align="center">
- <img src="![-h](https://user-images.githubusercontent.com/68915136/144244816-fa852952-73b9-4fc4-874d-11fd071a9def.png)" alt="System Architecture of the system"/>
+  <img src="https://drive.google.com/file/d/1L_FtZr0xMbF4vZYjKGsa5Shvj-uf2B2h/view?usp=sharing" alt="System Architecture of the system"/>
 </p>
 
-
-
-
+![-h](https://user-images.githubusercontent.com/68915136/144244816-fa852952-73b9-4fc4-874d-11fd071a9def.png)
 
 ## System Architecture
 <p align="center">
